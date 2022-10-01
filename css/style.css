@@ -6,10 +6,21 @@ body {
   background-color: white;
 }
 
+#container1{
+  border: 1px solid grey;
+  background-color: yellow;
+}
+
 #quote-box {
   margin: auto;
   padding: auto;
   text-align: center;
+  height: 50%;
+  width: 60%;
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  right: 10%;
   }
 
 #text {
